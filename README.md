@@ -122,7 +122,7 @@ export PORT=8000
 ```
 
 ## 测试方法
-以下文件可以导入到postman
+以下文件可以导入到postman进行测试：
 blog_test.postman_collection.json
 
 
